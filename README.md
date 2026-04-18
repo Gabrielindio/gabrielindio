@@ -7,7 +7,7 @@
   <br><br>
 
   <a href="SEU_LINK_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank"><img src="https://www.linkedin.com/in/gabriel-%C3%A2ndreas-16a649285/"></a>
+  <a href="https://www.linkedin.com/in/gabriel-%C3%A2ndreas-16a649285/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
